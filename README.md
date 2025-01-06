@@ -11,7 +11,7 @@
 
 ## Description
 
-This portfolio uses React, including Vite and JSX, to dynamically serve the front end.
+portfolio using react
 
 ## Deployment
 
@@ -25,9 +25,9 @@ manual testing
 
 ## Acknowledgements
 
-Starter code from class repo (Week 20 Mini-Project): https://git.bootcampcontent.com/University-of-California---Berkeley/UCB-VIRT-FSF-PT-07-2024-U-LOLC/-/tree/main/20-React/01-Activities/28-Stu_Mini-Project/Develop
+Starter code from class repo (Week 22 Activity 22): >>>>>
 
-Thanks to John Young, Zac Warner and Mariah Wear at edX/UC Berkeley Full-Stack Bootcamp for help in addition to instruction.
+Thanks to John Young, Zac Warner, and Chris Baird at edX/UC Berkeley Full-Stack Bootcamp for help in addition to instruction.
 
 ## Contact
 
