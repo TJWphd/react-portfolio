@@ -25,7 +25,7 @@ manual testing
 
 ## Acknowledgements
 
-Starter code from class repo (Week 20 Mini-Project): https://git.bootcampcontent.com/University-of-California---Berkeley/UCB-VIRT-FSF-PT-07-2024-U-LOLC/-/tree/main/20..........
+Starter code from class repo (Week 20 Mini-Project): https://git.bootcampcontent.com/University-of-California---Berkeley/UCB-VIRT-FSF-PT-07-2024-U-LOLC/-/tree/main/20-React/01-Activities/28-Stu_Mini-Project/Develop
 
 Thanks to John Young, Zac Warner and Mariah Wear at edX/UC Berkeley Full-Stack Bootcamp for help in addition to instruction.
 
