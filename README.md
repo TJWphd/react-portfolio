@@ -17,7 +17,7 @@ portfolio using react
 
 Repo: https://github.com/TJWphd/react-portfolio
 
-Deployment: https://tjwphd.github.io/react-portfolio
+Deployment: https://react-portfolio-tjw.onrender.com/
 
 ## Testing
 
@@ -25,11 +25,12 @@ manual testing
 
 ## Acknowledgements
 
-Starter code from class repo (Week 22 Activity 22): >>>>>
+Starter code from class repo (Week 20 Activity 22).
 
-Thanks to John Young, Zac Warner, and Chris Baird at edX/UC Berkeley Full-Stack Bootcamp for help in addition to instruction.
+Thanks to John Young, Zac Warner, Chris Baird, and Erik Hoverston at edX/UC Berkeley Full-Stack Bootcamp for help in addition to instruction.
 
 ## Contact
 
 [Github Profile](https://github.com/TJWphd)
 [Email](mailto:tjwhitephd@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/thomas-white-phd/)
