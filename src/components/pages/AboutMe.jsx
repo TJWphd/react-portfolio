@@ -6,8 +6,9 @@ export default function AboutMe() {
         <p>Thomas White is a web developer</p>
       </div>
       <div>
-        [Github Profile](https://github.com/TJWphd)
-        [Email](mailto:tjwhitephd@gmail.com)
+        <a href="https://github.com/TJWphd">GitHub</a>
+        <a href="https://linkedin.com/in/thomas-white-phd">LinkedIn</a>
+        <a href="mailto:tjwhitephd@gmail.com">email</a>
       </div>
     </div>
   );
